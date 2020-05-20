@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Carro()
+comment1.params=matricula\ velo\ preco\ l\ motorista
+comment1.target=Carro(java.lang.String,\ double,\ double,\ Localizacao,\ java.lang.String)
+comment2.params=c
+comment2.target=Carro(Carro)
+comment3.params=
+comment3.target=java.util.ArrayList\ getFilaDeEspera()
+comment4.params=
+comment4.target=java.util.ArrayList\ getDestinos()
+comment5.params=
+comment5.target=int\ getAtraso()
+comment6.params=
+comment6.target=Carro\ clone()
+comment7.params=c\ lDestino
+comment7.target=void\ adiciona(Cliente,\ Localizacao)
+comment8.params=
+comment8.target=Localizacao\ getDestino1()
+comment9.params=
+comment9.target=Cliente\ remove()
+numComments=10
